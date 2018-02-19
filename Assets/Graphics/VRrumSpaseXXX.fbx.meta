@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 00c45f0ccba2d1f45bbaf3e89cdc9531
+timeCreated: 1518259285
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Board
+    100002: Board.001
+    100004: Board.002
+    100006: Board.003
+    100008: Circle
+    100010: Circle.002
+    100012: Circle.003
+    100014: Circle.004
+    100016: Circle.005
+    100018: Cube.010
+    100020: Cube.012
+    100022: Cube.014
+    100024: Cube.015
+    100026: Cube.016
+    100028: Cube.017
+    100030: Cube.018
+    100032: kabinu
+    100034: kabinu.001
+    100036: Plane
+    100038: stena
+    100040: stena.001
+    100042: Stull
+    100044: Stull.002
+    100046: Stull.003
+    100048: Stull.004
+    100050: Stull.005
+    100052: Stull.006
+    100054: Stull.007
+    100056: Stull.008
+    100058: Stull.009
+    100060: Stull.010
+    100062: Stull.011
+    100064: Stull.012
+    100066: Stull.013
+    100068: Stull.014
+    100070: Stull.015
+    100072: Stull.016
+    100074: Stull.017
+    100076: Stull.018
+    100078: Stull.019
+    100080: Stull.020
+    100082: Stull.021
+    100084: Stull.022
+    100086: Stull.023
+    100088: Stull.024
+    100090: Stull.025
+    100092: Stull.026
+    100094: //RootNode
+    400000: Board
+    400002: Board.001
+    400004: Board.002
+    400006: Board.003
+    400008: Circle
+    400010: Circle.002
+    400012: Circle.003
+    400014: Circle.004
+    400016: Circle.005
+    400018: Cube.010
+    400020: Cube.012
+    400022: Cube.014
+    400024: Cube.015
+    400026: Cube.016
+    400028: Cube.017
+    400030: Cube.018
+    400032: kabinu
+    400034: kabinu.001
+    400036: Plane
+    400038: stena
+    400040: stena.001
+    400042: Stull
+    400044: Stull.002
+    400046: Stull.003
+    400048: Stull.004
+    400050: Stull.005
+    400052: Stull.006
+    400054: Stull.007
+    400056: Stull.008
+    400058: Stull.009
+    400060: Stull.010
+    400062: Stull.011
+    400064: Stull.012
+    400066: Stull.013
+    400068: Stull.014
+    400070: Stull.015
+    400072: Stull.016
+    400074: Stull.017
+    400076: Stull.018
+    400078: Stull.019
+    400080: Stull.020
+    400082: Stull.021
+    400084: Stull.022
+    400086: Stull.023
+    400088: Stull.024
+    400090: Stull.025
+    400092: Stull.026
+    400094: //RootNode
+    2100000: No Name
+    2100002: Stul
+    2100004: Wood
+    2100006: gloss2
+    2100008: wallGray
+    2100010: Wallwait
+    2100012: BegStroka
+    2100014: BlakcWood
+    2100016: KAbinu
+    2100018: rubber
+    2100020: monitor.001
+    2100022: monitorCorpus.001
+    2100024: Board
+    2100026: TopGray
+    2100028: whiteTop
+    2100030: PolWhite
+    2100032: PolBlack
+    2100034: gloss
+    2100036: wallPlustik
+    2300000: Board
+    2300002: Board.001
+    2300004: Board.002
+    2300006: Board.003
+    2300008: Circle
+    2300010: Circle.002
+    2300012: Circle.003
+    2300014: Circle.004
+    2300016: Circle.005
+    2300018: Cube.010
+    2300020: Cube.012
+    2300022: Cube.014
+    2300024: Cube.015
+    2300026: Cube.016
+    2300028: Cube.017
+    2300030: Cube.018
+    2300032: kabinu
+    2300034: kabinu.001
+    2300036: Plane
+    2300038: stena
+    2300040: stena.001
+    2300042: Stull
+    2300044: Stull.002
+    2300046: Stull.003
+    2300048: Stull.004
+    2300050: Stull.005
+    2300052: Stull.006
+    2300054: Stull.007
+    2300056: Stull.008
+    2300058: Stull.009
+    2300060: Stull.010
+    2300062: Stull.011
+    2300064: Stull.012
+    2300066: Stull.013
+    2300068: Stull.014
+    2300070: Stull.015
+    2300072: Stull.016
+    2300074: Stull.017
+    2300076: Stull.018
+    2300078: Stull.019
+    2300080: Stull.020
+    2300082: Stull.021
+    2300084: Stull.022
+    2300086: Stull.023
+    2300088: Stull.024
+    2300090: Stull.025
+    2300092: Stull.026
+    3300000: Board
+    3300002: Board.001
+    3300004: Board.002
+    3300006: Board.003
+    3300008: Circle
+    3300010: Circle.002
+    3300012: Circle.003
+    3300014: Circle.004
+    3300016: Circle.005
+    3300018: Cube.010
+    3300020: Cube.012
+    3300022: Cube.014
+    3300024: Cube.015
+    3300026: Cube.016
+    3300028: Cube.017
+    3300030: Cube.018
+    3300032: kabinu
+    3300034: kabinu.001
+    3300036: Plane
+    3300038: stena
+    3300040: stena.001
+    3300042: Stull
+    3300044: Stull.002
+    3300046: Stull.003
+    3300048: Stull.004
+    3300050: Stull.005
+    3300052: Stull.006
+    3300054: Stull.007
+    3300056: Stull.008
+    3300058: Stull.009
+    3300060: Stull.010
+    3300062: Stull.011
+    3300064: Stull.012
+    3300066: Stull.013
+    3300068: Stull.014
+    3300070: Stull.015
+    3300072: Stull.016
+    3300074: Stull.017
+    3300076: Stull.018
+    3300078: Stull.019
+    3300080: Stull.020
+    3300082: Stull.021
+    3300084: Stull.022
+    3300086: Stull.023
+    3300088: Stull.024
+    3300090: Stull.025
+    3300092: Stull.026
+    4300000: Circle.005
+    4300002: Stull.026
+    4300004: Stull.025
+    4300006: Stull.024
+    4300008: Stull.023
+    4300010: Stull.022
+    4300012: Circle.004
+    4300014: Stull.021
+    4300016: Stull.018
+    4300018: Stull.020
+    4300020: Circle.003
+    4300022: Stull.019
+    4300024: Stull.017
+    4300026: Circle.002
+    4300028: Stull.016
+    4300030: Stull.015
+    4300032: Stull.011
+    4300034: Stull.014
+    4300036: Stull.013
+    4300038: Stull.012
+    4300040: Stull.010
+    4300042: Stull.009
+    4300044: Stull.008
+    4300046: Stull.007
+    4300048: Stull.006
+    4300050: Stull.005
+    4300052: Stull.004
+    4300054: Stull.003
+    4300056: Stull.002
+    4300058: Cube.018
+    4300060: stena.001
+    4300062: stena
+    4300064: Cube.017
+    4300066: Circle
+    4300068: Stull
+    4300070: Plane
+    4300072: kabinu.001
+    4300074: Cube.015
+    4300076: Board.003
+    4300078: Board.002
+    4300080: Cube.012
+    4300082: Cube.010
+    4300084: Board.001
+    4300086: Board
+    4300088: Cube.014
+    4300090: kabinu
+    4300092: Cube.016
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BegStroka
+    second: {fileID: 2100000, guid: 7c4b81e8cc052c04fbf0db7e6bcc70fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlakcWood
+    second: {fileID: 2100000, guid: 1a9f40487f6ea0443924ab232c150cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board
+    second: {fileID: 2100000, guid: 980686ae9899d844f8f5145725d20dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KAbinu
+    second: {fileID: 2100000, guid: 5832cbd808281924787a4696dd4c0a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d0b13e08bb2a78940872134529ee281d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PolBlack
+    second: {fileID: 2100000, guid: 75fd4cb3058d5f94185b57b8b445527e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PolWhite
+    second: {fileID: 2100000, guid: 37d8eb396c82d054684f463436483076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stul
+    second: {fileID: 2100000, guid: 3b1047a2840b96041b5d02c6c1d0bc40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopGray
+    second: {fileID: 2100000, guid: 1b8bbb80e69e9e74ba02eb019161a13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallwait
+    second: {fileID: 2100000, guid: 3642a2e93d1abce4f844373bdd9d56ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 150c3e4835bdce741b2eabf9485c3386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloss
+    second: {fileID: 2100000, guid: 81c9d8fa21d5c5145a00020010c4e4a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloss2
+    second: {fileID: 2100000, guid: 610eee4cd96fa0243bab4bc7ec312b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor.001
+    second: {fileID: 2100000, guid: ff86b13e4e082a64887f133374c28a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitorCorpus.001
+    second: {fileID: 2100000, guid: 8d41c8810658256498001c0812e520d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: d65a2e9b722fcd04f9279e16ac9bfc21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallGray
+    second: {fileID: 2100000, guid: c6ac1dfab4d8b3d49b79407ad5d3671c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallPlustik
+    second: {fileID: 2100000, guid: d75e859fef61657439721010c7ca9d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiteTop
+    second: {fileID: 2100000, guid: bebc5471f272e584c945f9a1496b39f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
